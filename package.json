@@ -1,0 +1,11 @@
+{
+  "name": "securechild-vercel-endpoint",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "firebase-admin": "^12.5.0"
+  },
+  "scripts": {
+    "dev": "node api/notify-pickup.js"
+  }
+}

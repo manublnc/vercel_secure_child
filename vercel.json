@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/notify-pickup.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
